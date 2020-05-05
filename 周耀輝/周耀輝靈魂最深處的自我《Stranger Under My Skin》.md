@@ -1,5 +1,6 @@
 # 周耀輝靈魂最深處的自我《Stranger Under My Skin》
 
+```
 Love is a mystery to me
 
 She was once here，and now she’s someone
@@ -81,6 +82,7 @@ Its glare finally came to the end of something
 I could not bear
 
 Those were the thing that were hidden under my skin
+```
 
 作者：李萬褀
 
